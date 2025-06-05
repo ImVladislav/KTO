@@ -442,7 +442,7 @@
 
 .vote {
   z-index: 2;
-  width: 550px;
+  width: 850px;
   position: relative;
 }
 
@@ -668,7 +668,7 @@
   }
 
   .vote {
-    width: 400px;
+    width: 530px;
   }
 
   .footer {
