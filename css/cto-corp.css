@@ -483,17 +483,17 @@
 
 .video {
   z-index: 4;
-  background-color: #db3030;
+  /* background-color: #db3030; */
   width: 350px;
   height: 350px;
   position: relative;
-  top: -353px;
+  top: -320px;
   left: 52px;
 }
 
 .background-video {
   width: 100%;
-  height: 100%;
+  height: 80%;
 }
 
 .menu_link {
@@ -604,7 +604,7 @@
   .video {
     width: 290px;
     height: 290px;
-    top: -294px;
+    top: -262px;
     left: 43px;
   }
 
@@ -681,7 +681,7 @@
   .video {
     width: 215px;
     height: 200px;
-    top: -208px;
+    top: -184px;
     left: 20px;
   }
 
