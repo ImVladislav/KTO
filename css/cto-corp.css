@@ -57,7 +57,7 @@
 
 .tg {
   background-color: rgba(0, 0, 0, 0);
-  background-image: url('../images/tg.svg');
+  background-image: url("../images/tg.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -218,7 +218,7 @@
 
 .x {
   background-color: rgba(0, 0, 0, 0);
-  background-image: url('../images/x.svg');
+  background-image: url("../images/x.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -253,7 +253,7 @@
 
 .hero_separator {
   z-index: 20;
-  background-image: url('../images/floor_separator.svg');
+  background-image: url("../images/floor_separator.svg");
   background-position: 50% 100%;
   background-repeat: repeat-x;
   background-size: auto 100%;
@@ -352,7 +352,7 @@
 
 .shclars {
   z-index: 10;
-  background-image: url('../images/school.svg');
+  background-image: url("../images/school.svg");
   background-position: 50% 100%;
   background-repeat: repeat-x;
   background-size: auto 100%;
@@ -381,7 +381,7 @@
 }
 
 .ground {
-  background-image: url('../images/ground.svg');
+  background-image: url("../images/ground.svg");
   background-position: 100%;
   background-repeat: repeat-x;
   background-size: auto 100%;
@@ -424,7 +424,7 @@
 
 .ground_2 {
   z-index: 2;
-  background-image: url('../images/ground2.svg');
+  background-image: url("../images/ground2.svg");
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: auto 100%;
@@ -534,7 +534,7 @@
   z-index: 2000;
   pointer-events: none;
   mix-blend-mode: screen;
-  background-image: url('../images/old.gif');
+  background-image: url("../images/old.gif");
   background-position: 50%;
   background-size: auto;
   position: fixed;
@@ -717,11 +717,13 @@
     padding-right: 15px;
   }
 
-  .hidder1, .hidder2 {
+  .hidder1,
+  .hidder2 {
     height: 15px;
   }
 
-  .hidder3, .hidder4 {
+  .hidder3,
+  .hidder4 {
     width: 15px;
   }
 
@@ -765,7 +767,7 @@
 
   .shclars {
     height: 120px;
-    margin-top: -49px;
+    margin-top: -15px;
   }
 
   .image {
